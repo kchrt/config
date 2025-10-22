@@ -20,6 +20,7 @@ brew "fish"
 brew "fisher"
 brew "zig"
 brew "odin"
+brew "pylsp"
 
 cask "raycast"
 cask "rectangle"
