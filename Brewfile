@@ -37,6 +37,7 @@ cask "proton-mail"
 cask "proton-drive"
 cask "proton-pass"
 cask "codex"
+cask "obsidian"
 
 hostname = `hostname`.strip
 if hostname == "koichiro-mac-work"
