@@ -33,9 +33,6 @@ cask "spotify"
 cask "tableplus"
 cask "maccy"
 cask "zed"
-cask "proton-mail"
-cask "proton-drive"
-cask "proton-pass"
 cask "codex"
 cask "obsidian"
 
@@ -56,4 +53,7 @@ if hostname == "koichiro-mac-work"
 else
   cask "orbstack"
   cask "brave-browser"
+  cask "proton-mail"
+  cask "proton-drive"
+  cask "proton-pass"
 end
