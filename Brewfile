@@ -24,6 +24,17 @@ brew "pylsp"
 brew "ffmpeg"
 brew "libheif"
 
+# For Ladybird Browser
+brew "autoconf"
+brew "autoconf-archive"
+brew "automake"
+brew "ccache"
+brew "cmake"
+brew "libtool"
+brew "nasm"
+brew "ninja"
+brew "pkg-config"
+
 cask "raycast"
 cask "rectangle"
 cask "chatgpt"
