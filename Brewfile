@@ -64,7 +64,5 @@ if hostname == "koichiro-mac-work"
 else
   cask "orbstack"
   cask "brave-browser"
-  cask "proton-mail"
-  cask "proton-drive"
   cask "proton-pass"
 end
