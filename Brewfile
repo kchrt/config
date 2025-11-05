@@ -48,6 +48,7 @@ cask "maccy"
 cask "zed"
 cask "codex"
 cask "obsidian"
+cask "chatgpt-atlas"
 
 hostname = `hostname`.strip
 if hostname == "koichiro-mac-work"
