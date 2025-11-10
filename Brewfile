@@ -23,6 +23,7 @@ brew "odin"
 brew "pylsp"
 brew "ffmpeg"
 brew "libheif"
+brew "uv"
 
 # For Ladybird Browser
 brew "autoconf"
