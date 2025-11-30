@@ -24,6 +24,7 @@ brew "pylsp"
 brew "ffmpeg"
 brew "libheif"
 brew "uv"
+brew "gemini-cli"
 
 # For Ladybird Browser
 brew "autoconf"
@@ -51,6 +52,7 @@ cask "codex"
 cask "obsidian"
 cask "chatgpt-atlas"
 cask "antigravity"
+cask "notion"
 
 hostname = `hostname`.strip
 if hostname == "koichiro-mac-work"
